@@ -1,14 +1,11 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
+##This function creates a special "matrix", which is really a list containing a function to-
+##set the elements of the matrix, get the elements of the matrix, set the elements of the matrix inverse, get the elements of the matrix inverse
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
